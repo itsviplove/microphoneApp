@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		18081A741E681C9600F14AD2 /* SoundAddViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18081A731E681C9600F14AD2 /* SoundAddViewController.swift */; };
 		180C02EE1E6811B1002E3824 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 180C02ED1E6811B1002E3824 /* AppDelegate.swift */; };
 		180C02F01E6811B1002E3824 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 180C02EF1E6811B1002E3824 /* ViewController.swift */; };
 		180C02F31E6811B1002E3824 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 180C02F11E6811B1002E3824 /* Main.storyboard */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		18081A731E681C9600F14AD2 /* SoundAddViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SoundAddViewController.swift; sourceTree = "<group>"; };
 		180C02EA1E6811B0002E3824 /* MicroPhone.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MicroPhone.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		180C02ED1E6811B1002E3824 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		180C02EF1E6811B1002E3824 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -58,6 +60,7 @@
 			children = (
 				180C02ED1E6811B1002E3824 /* AppDelegate.swift */,
 				180C02EF1E6811B1002E3824 /* ViewController.swift */,
+				18081A731E681C9600F14AD2 /* SoundAddViewController.swift */,
 				180C02F11E6811B1002E3824 /* Main.storyboard */,
 				180C02F71E6811B1002E3824 /* Assets.xcassets */,
 				180C02F91E6811B1002E3824 /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				18081A741E681C9600F14AD2 /* SoundAddViewController.swift in Sources */,
 				180C02F01E6811B1002E3824 /* ViewController.swift in Sources */,
 				180C02EE1E6811B1002E3824 /* AppDelegate.swift in Sources */,
 				180C02F61E6811B1002E3824 /* MicroPhone.xcdatamodeld in Sources */,
@@ -305,6 +309,7 @@
 				180C03011E6811B1002E3824 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
